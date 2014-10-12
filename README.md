@@ -1,6 +1,3 @@
-ci_paypal
-=========
-
 Codeigniter Paypal library
 =========
 
